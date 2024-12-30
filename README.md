@@ -4,7 +4,7 @@
 
 <img src="images/louvre_generated.png" style="width:750px;height:200px;">
 
-This is a programming assignment that is part of the Convolutional Neural Networks course within the [Deep Learning Specialization by deeplearning.ai](https://www.deeplearning.ai/courses/deep-learning-specialization/).
+This is a programming assignment that is part of the Convolutional Neural Networks course within the [Deep Learning Specialization by deeplearning.ai](https://www.deeplearning.ai/courses/deep-learning-specialization/#syllabus).
 
 **Date:** 29 Dec 2024
 
