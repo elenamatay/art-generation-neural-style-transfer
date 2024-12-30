@@ -9,6 +9,8 @@
 ## Overview
 In this assignment, I learnt about Neural Style Transfer, an algorithm created by [Gatys et al. (2015).](https://arxiv.org/abs/1508.06576)
 
+<img src="images/louvre_generated.png" style="width:750px;height:200px;">
+
 **In this notebook, I was able to:**
 - Implement the neural style transfer algorithm 
 - Generate novel artistic images using my algorithm 
